@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  name: SparkXu-IOTCar-1480749523394
+  host: SparkXu-IOTCar-1480749523394
   disk_quota: 1024M
